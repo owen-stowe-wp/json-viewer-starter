@@ -10,6 +10,11 @@ An example of what this looks like can be found [here, in Denis' gihub](https://
 
 The ideal end state for this project contains the following:
 * Readable JSON
+  * Tabbed/indented (not all on one line)
+  * shows brackets
+  * quotes around strings
 * Expand / collapse functionality
+  * Can expand/collapse any array or object at any level using a button.
+  * Button indicates expand/collapse state
 * Typescript types
-* More polied CSS is nice to have, but not a requirement
+* More polished CSS is nice to have, but not a requirement (e.g. colors, collapse indicator)
